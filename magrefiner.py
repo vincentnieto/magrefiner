@@ -27,10 +27,10 @@ print('Import complete!')
 #Replace paths here!
 
 print('Please set the paths to your tab-deliminated files. Please change the file type if necessary (e.g., .txt, .csv).')
-df1 = pd.read_csv ('/Users/vin176/Desktop/Scripts/pasolli_analysis/pasolli_eliminases_header.txt', sep='\t')
-df2 = pd.read_csv ('/Users/vin176/Desktop/Scripts/pasolli_analysis/mmc3.txt', sep='\t')
-df3 = pd.read_csv ('/Users/vin176/Desktop/Scripts/pasolli_analysis/mmc4.txt', sep='\t')
-df4 = pd.read_csv ('/Users/vin176/Desktop/Scripts/pasolli_analysis/metadata.txt', sep='\t')
+df1 = pd.read_csv ('/pasolli_eliminases_header.txt', sep='\t')
+df2 = pd.read_csv ('/mmc3.txt', sep='\t')
+df3 = pd.read_csv ('/mmc4.txt', sep='\t')
+df4 = pd.read_csv ('/metadata.txt', sep='\t')
 print('Construction of data frames complete!')
 
 
