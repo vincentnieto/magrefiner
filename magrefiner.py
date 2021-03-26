@@ -4,9 +4,9 @@
 # In[2]:
 
 
-#Interactive MAG analysis program by Vincent Nieto
+#MAGREFINER: Interactive MAG analysis program by Vincent Nieto, 2021
 
-print('Interactive MAG Analysis Program by Vincent Nieto, 2021')
+print('MAGREFINER')
 print('Made specifically for Compiled Pasolli Data')
 
 
